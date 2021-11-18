@@ -1,0 +1,30 @@
+#purple {
+    color: purple;
+}
+#red {
+    color: red;
+}
+section {
+    background-color: grey;
+}
+#pup {
+    width: 150px;
+    height: 160px;
+}
+#crayola {
+    width: 170px;
+    height: 120px;
+}
+#green {
+    width: 120px;
+    height: 140px;
+}
+#cash {
+    width: 200px;
+    height: 100px;
+}
+button {
+    border-radius: 50px;
+    font-weight: bold;
+    background-color: white;
+}
